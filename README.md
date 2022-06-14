@@ -4,7 +4,7 @@ Submitted by: Kiara Bermudez
 
 Estimated time spent: 13 hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](https://kiara-bermudez.github.io/SITE-Project1-Flixster/)
+Deployed Application (optional): [Flixster Deployed Site](https://kiara-bermudez.github.io/SITE-Project1-FLIXSTER2/)
 
 ### Application Features
 
